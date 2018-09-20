@@ -1,0 +1,76 @@
+  1: lemma
+  2: wortart
+  3: kompositum
+  4: genus
+  5: nominativ singular
+  6: nominativ singular*
+  7: nominativ singular 1
+  8: nominativ singular 2
+  9: nominativ singular 3
+ 10: nominativ singular 4
+ 11: nominativ singular stark
+ 12: nominativ singular schwach
+ 13: nominativ singular gemischt
+ 14: nominativ plural
+ 15: nominativ plural*
+ 16: nominativ plural 1
+ 17: nominativ plural 2
+ 18: nominativ plural 3
+ 19: nominativ plural 4
+ 20: nominativ plural stark
+ 21: nominativ plural schwach
+ 22: nominativ plural gemischt
+ 23: genitiv singular
+ 24: genitiv singular*
+ 25: genitiv singular 1
+ 26: genitiv singular 2
+ 27: genitiv singular 3
+ 28: genitiv singular 4
+ 29: genitiv singular stark
+ 30: genitiv singular schwach
+ 31: genitiv singular gemischt
+ 32: genitiv plural
+ 33: genitiv plural*
+ 34: genitiv plural 1
+ 35: genitiv plural 2
+ 36: genitiv plural 3
+ 37: genitiv plural 4
+ 38: genitiv plural stark
+ 39: genitiv plural schwach
+ 40: genitiv plural gemischt
+ 41: dativ singular
+ 42: dativ singular*
+ 43: dativ singular 1
+ 44: dativ singular 2
+ 45: dativ singular 3
+ 46: dativ singular 4
+ 47: dativ singular stark
+ 48: dativ singular schwach
+ 49: dativ singular gemischt
+ 50: dativ plural
+ 51: dativ plural*
+ 52: dativ plural 1
+ 53: dativ plural 2
+ 54: dativ plural 3
+ 55: dativ plural 4
+ 56: dativ plural stark
+ 57: dativ plural schwach
+ 58: dativ plural gemischt
+ 59: akkusativ singular
+ 60: akkusativ singular*
+ 61: akkusativ singular 1
+ 62: akkusativ singular 2
+ 63: akkusativ singular 3
+ 64: akkusativ singular 4
+ 65: akkusativ singular stark
+ 66: akkusativ singular schwach
+ 67: akkusativ singular gemischt
+ 68: akkusativ plural
+ 69: akkusativ plural*
+ 70: akkusativ plural 1
+ 71: akkusativ plural 2
+ 72: akkusativ plural 3
+ 73: akkusativ plural 4
+ 74: akkusativ plural stark
+ 75: akkusativ plural schwach
+ 76: akkusativ plural gemischt
