@@ -1,0 +1,4 @@
+# DicGerman
+required:
+-python
+-sqlite
